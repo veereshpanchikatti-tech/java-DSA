@@ -1,0 +1,16 @@
+public class second largest{
+    int largest=Integer.MIN_VALUE;
+    int largest=Integer.MIN_VALUE;
+
+    for(int i=0;i<arr.largest;i++){
+        if(arr[i]<smaller&&arr[i]is avilable){
+            smallest=smaller;
+            smallest=arr[i];
+
+            
+        }else if(arr[i]<smaller&&arr[i]is smallest){
+            smallest=arr[i];
+        }
+    }
+    return Smallest;
+}

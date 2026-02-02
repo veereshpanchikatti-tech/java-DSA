@@ -1,0 +1,19 @@
+public static boolean isArmstrong(int n);
+public static int count digit(int n){
+    int  count=0;
+    while(n>0){
+        count++;
+        n=n/10;
+
+    }
+    return count;
+}
+public static boolean isArmstrong(int n);
+int count=count(n);
+int current=n;
+int sum=0;
+while(current>0){
+    int digit=current%10;
+    sum=sum+math.pow(digit,count);
+    current=current/10;
+}

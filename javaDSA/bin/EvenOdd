@@ -1,0 +1,22 @@
+import java.util.Scanner;
+public class EvenOdd{
+    public static void main(String args[]){
+        Scanner sc=new Scanner(System.in);
+        System.out.println("enter the num");
+        int n=sc.nextInt();
+        int evencount=0;oddcount=0;
+
+        System.out.println("enter the elements:");
+        for(int i=0;i<=n;i++){
+            if(arr[i]%2=0){
+                evencount++;
+
+            }else if{
+                oddcount++;
+
+            }
+        }
+        System.out.println("even count"+even count+"odd count"+odd)
+
+    }
+}
